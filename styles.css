@@ -26,6 +26,10 @@ html, body {
   text-align: center;
 }
 
+form {
+  margin-top: 20px;
+}
+
 /* Main content area using flex to center items */
 .main-content {
   display: flex;
