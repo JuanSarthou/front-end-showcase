@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function() {
   
   btnA.addEventListener('click', function() {
     alert("Greetings dear user!!");
-    greeting.textContent = "Hello user!!";
+    greeting.textContent = "Hello user!!!!";
   });
 
   // Button Color: Toggle between light and darker background for the message box
