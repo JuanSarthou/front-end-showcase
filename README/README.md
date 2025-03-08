@@ -1,6 +1,6 @@
 # Frontend Showcase
 
-This repository showcases my skills in **HTML, CSS, and JavaScript** through various projects and examples.
+This repository showcases my skills in **HTML, CSS, and JavaScript**.
 
 ## Features
 - Responsive web design with **HTML & CSS**
